@@ -56,7 +56,7 @@ export const ContactSection: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs font-bold uppercase tracking-wider text-gray-400">Main Office Address</p>
-                  <p className="text-sm font-bold text-gray-800">B-299, Outer Ring Rd, Block B, Saraswati Vihar, Pitampura, Delhi, 110034</p>
+                  <p className="text-sm font-bold text-gray-800">B-3991, Block B, Vihar, noida sector 62, noida, 910039</p>
                 </div>
               </div>
             </div>

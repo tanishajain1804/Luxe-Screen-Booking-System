@@ -73,7 +73,7 @@ export default function Footer() {
             <div className="flex items-start gap-3 text-white/85 text-sm">
               <MapPin size={20} className="text-gray-400 shrink-0 mt-0.5" />
               <p className="leading-relaxed">
-                B-345678 ff  Pitampura, Delhi 567899
+                B-3991, Block B, Vihar, noida sector 62, noida, 910039
               </p>
             </div>
             
