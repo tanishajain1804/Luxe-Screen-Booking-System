@@ -69,7 +69,6 @@ export const InsideLookSection: React.FC = () => {
               >
                 <div className="relative aspect-[9/16] overflow-hidden bg-slate-800">
                   <iframe
-                    src={`https://www.youtube.com/embed/${videoId}?rel=0&playsinline=1&modestbranding=1&controls=1&mute=1`}
                     title={`Luxe Screens Celebration Short ${idx + 1}`}
                     className="w-full h-full border-0 absolute inset-0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
